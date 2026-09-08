@@ -1,0 +1,32 @@
+{
+  "name": "ceritabaik-ui",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Demo antarmuka platform donasi (React + Vite) dengan alur transfer bank dan verifikasi bukti — proyek portofolio.",
+  "author": "Al Adiyat Nur Rusuli Jaya (Adit)",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [
+    "react",
+    "vite",
+    "react-router",
+    "donation",
+    "crowdfunding",
+    "portfolio",
+    "ui"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.15.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.1"
+  }
+}
