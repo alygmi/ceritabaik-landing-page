@@ -235,4 +235,4 @@ src/assets/brand/
 
 ---
 
-Dibuat oleh **Adit** — backend-leaning fullstack developer, Bandung.
+Dibuat oleh **Al Adiyat** — backend-leaning fullstack developer, Bandung.
